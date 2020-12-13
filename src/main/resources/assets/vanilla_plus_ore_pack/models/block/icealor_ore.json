@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "vanilla_plus_ore_pack:blocks/icealor_ore",
+    "up": "vanilla_plus_ore_pack:blocks/icealor_ore",
+    "north": "vanilla_plus_ore_pack:blocks/icealor_ore",
+    "east": "vanilla_plus_ore_pack:blocks/icealor_ore",
+    "south": "vanilla_plus_ore_pack:blocks/icealor_ore",
+    "west": "vanilla_plus_ore_pack:blocks/icealor_ore",
+    "particle": "vanilla_plus_ore_pack:blocks/icealor_ore"
+  }
+}

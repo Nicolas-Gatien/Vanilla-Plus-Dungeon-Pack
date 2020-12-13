@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "vanilla_plus_ore_pack:blocks/stone_bricks",
+    "up": "vanilla_plus_ore_pack:blocks/stone_bricks",
+    "north": "vanilla_plus_ore_pack:blocks/stone_bricks",
+    "east": "vanilla_plus_ore_pack:blocks/stone_bricks",
+    "south": "vanilla_plus_ore_pack:blocks/stone_bricks",
+    "west": "vanilla_plus_ore_pack:blocks/stone_bricks",
+    "particle": "vanilla_plus_ore_pack:blocks/stone_bricks"
+  }
+}

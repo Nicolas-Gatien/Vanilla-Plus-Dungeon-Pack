@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "vanilla_plus_ore_pack:blocks/frost_down_generation_block_top_bottom",
+    "up": "vanilla_plus_ore_pack:blocks/frost_down_generation_block_top_bottom",
+    "north": "vanilla_plus_ore_pack:blocks/frost_down_generation_blok",
+    "east": "vanilla_plus_ore_pack:blocks/frost_down_generation_blok",
+    "south": "vanilla_plus_ore_pack:blocks/frost_down_generation_blok",
+    "west": "vanilla_plus_ore_pack:blocks/frost_down_generation_blok",
+    "particle": "vanilla_plus_ore_pack:blocks/frost_down_generation_block_top_bottom"
+  }
+}
