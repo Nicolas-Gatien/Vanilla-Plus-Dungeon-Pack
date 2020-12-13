@@ -1,0 +1,19 @@
+{
+  "group": "vanilla_plus_ore_pack",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:birch_log"
+    },
+    "1": {
+      "item": "minecraft:birch_log"
+    }
+  },
+  "result": {
+    "item": "minecraft:birch_log",
+    "count": 1
+  }
+}

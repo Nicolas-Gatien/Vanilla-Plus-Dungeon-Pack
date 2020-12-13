@@ -54,6 +54,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dungeon_stone_bricks"
+    },
+    {
+      "name": "Yoink",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yoink"
     }
   ],
   "variable_elements": [],
